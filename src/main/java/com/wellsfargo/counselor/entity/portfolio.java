@@ -17,7 +17,6 @@ public class Portfolio {
     private String creationDate;
 
     protected Portfolio() {
-
     }
 
     public Portfolio(Client client, String creationDate) {
